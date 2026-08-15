@@ -85,7 +85,7 @@ const Hero = () => {
             </a>
 
             <a
-              href="https://drive.google.com/file/d/18euK8x-515lxNfosQomFaODsp2Rq0eGu/view?usp=drivesdk"
+              href="https://riotecommerce-my.sharepoint.com/:b:/p/jagriti_chawla/IQAHc8cbaM5KSr2XE5KzuISXARkAysxF2Xy9QBDpuA62ln4?e=IaJmQX"
               target='_blank'
               rel='noopener noreferrer'
               className="flex items-center gap-2 px-4 py-3.5 bg-dark-300/80 rounded-xl border border-white/5 text-gray-300 hover:text-purple hover:border-purple/50 transition-all duration-300 text-base font-semibold"
